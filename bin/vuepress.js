@@ -105,4 +105,4 @@ function wrapCommand (fn) {
       console.error(chalk.red(err.stack))
     })
   }
-}
+}//
